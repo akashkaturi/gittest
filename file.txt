@@ -1,2 +1,2 @@
-this is the changes of main branch
+this is the changes of main branch and this is from child branch
 these are the changes from child branch
